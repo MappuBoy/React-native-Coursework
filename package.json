@@ -1,5 +1,5 @@
 {
-  "name": "CourseWork",
+  "name": "CarSell",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/native-stack": "^6.9.0",
     "react": "18.1.0",
     "react-native": "0.70.1"
   },
