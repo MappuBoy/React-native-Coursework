@@ -1,4 +1,4 @@
-package com.carsell.newarchitecture.components;
+package com.reactnativeapp.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

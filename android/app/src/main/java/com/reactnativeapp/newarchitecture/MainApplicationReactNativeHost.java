@@ -1,4 +1,4 @@
-package com.carsell.newarchitecture;
+package com.reactnativeapp.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.carsell.BuildConfig;
-import com.carsell.newarchitecture.components.MainComponentsRegistry;
-import com.carsell.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.reactnativeapp.BuildConfig;
+import com.reactnativeapp.newarchitecture.components.MainComponentsRegistry;
+import com.reactnativeapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
