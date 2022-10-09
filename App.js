@@ -1,8 +1,9 @@
 import Loginform from "./screen/Loginform";
+import Signinform from "./screen/Signinform";
 
 const App = ()=>{
   return(
-    <Loginform/>
+    <Signinform/>
   )
 }
 export default App;
